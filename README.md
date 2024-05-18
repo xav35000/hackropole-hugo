@@ -9,6 +9,7 @@ A [Hugo](https://gohugo.io/) theme to host [Capture-The-Flag](https://en.wikiped
 
 You may test a demo of this theme on [Hackropole](https://hackropole.fr/) website.
 
+Serves as a test for me to better understand github actions and maybe try to pr some changes...
 **Features:**
 
   * Lightweight.
